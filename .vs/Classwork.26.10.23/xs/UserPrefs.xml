@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{C8CB92B1-35A4-4033-B859-48652E2E197D}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Classwork.26.10.23 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Classwork.26.10.23/Services/Abstract/IAppDataContext.cs">
+    <Files>
+      <File FileName="Classwork.26.10.23/Controllers/HomeController.cs" Line="6" Column="2" IsPinned="True" />
+      <File FileName="Classwork.26.10.23/Views/Home/CarModel.cshtml" />
+      <File FileName="Classwork.26.10.23/Services/Abstract/IAppDataContext.cs" Line="7" Column="1" />
+      <File FileName="Classwork.26.10.23/Services/Concrete/AppDataContext.cs" Line="11" Column="1" />
+      <File FileName="Classwork.26.10.23/Models/Car.cs" Line="1" Column="1" />
+      <File FileName="Classwork.26.10.23/Models/CarModel.cs" Line="1" Column="1" />
+      <File FileName="Classwork.26.10.23/Models/Detail.cs" Line="1" Column="1" />
+      <File FileName="Classwork.26.10.23/Models/Marka.cs" Line="1" Column="1" />
+      <File FileName="Classwork.26.10.23/Models/Base.cs" Line="4" Column="17" />
+      <File FileName="Classwork.26.10.23/Program.cs" Line="7" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Classwork.26.10.23" expanded="True">
+            <Node name="Classwork.26.10.23">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Abstract" expanded="True">
+                  <Node name="IAppDataContext.cs" selected="True" />
+                </Node>
+                <Node name="Concrete" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
